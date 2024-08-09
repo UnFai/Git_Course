@@ -1,5 +1,5 @@
 # Git_Course
 For learning git and github course
 ## Project notes
-<sup>Superscript</sup>	
-<sub>SubScript</sub>	
+<sup>Up</sup> middle	<sub>Down</sub>	
+<sup>Up</sup> middle	<sub>Down</sub>	
